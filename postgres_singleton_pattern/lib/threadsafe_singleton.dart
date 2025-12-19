@@ -26,8 +26,8 @@ class ThreadsafeSingleton {
         Endpoint(
           host: 'localhost',
           database: 'temp',
-          username: 'tanjim',
-          password: '241198',
+          username: '',
+          password: '',
         ),
       );
     });
