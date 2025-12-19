@@ -16,8 +16,8 @@ class DatabaseManager {
       Endpoint(
         host: 'localhost',
         database: 'temp',
-        username: 'tanjim',
-        password: '241198',
+        username: '',
+        password: '',
       ),
       settings: ConnectionSettings(sslMode: SslMode.disable),
     );
